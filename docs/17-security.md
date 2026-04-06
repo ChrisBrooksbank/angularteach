@@ -278,6 +278,16 @@ localStorage.setItem('token', authToken);
 
 ---
 
+## Free Resources
+
+> **Official:** [Security Guide](https://angular.dev/best-practices/security) — XSS prevention, sanitization, CSP, trusted types, and HTTP-level security
+>
+> **YouTube:** [Angular Security — XSS, CSRF, and Best Practices](https://www.youtube.com/@DecodedFrontend) — Decoded Frontend covers Angular's built-in sanitization, trusted types, and common vulnerability patterns
+>
+> **Reference:** [OWASP Angular Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Angular_Cheat_Sheet.html) — practical, maintained checklist of Angular-specific security considerations
+
+---
+
 **Related:**
 - [HTTP Client](10-http-client.md) — interceptors for auth and CSRF
 - [Forms](09-forms.md) — client-side validation

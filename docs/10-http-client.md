@@ -367,6 +367,18 @@ userResource = httpResource<User>(() => ({
 
 ---
 
+## Free Resources
+
+> **Official:** [HTTP Client Guide](https://angular.dev/guide/http) | [Interceptors](https://angular.dev/guide/http/interceptors) — full HttpClient and functional interceptors reference
+>
+> **Official:** [httpResource](https://angular.dev/guide/signals/resource) — the new signal-based HTTP resource API
+>
+> **YouTube:** [Angular HttpClient — Complete Guide](https://www.youtube.com/@DecodedFrontend) — Decoded Frontend covers HTTP requests, error handling, and functional interceptors
+>
+> **YouTube:** [Angular httpResource — Data Fetching with Signals](https://www.youtube.com/@JoshuaMorony) — Joshua Morony on the new `httpResource` API integrating HTTP with signals
+
+---
+
 **Related:**
 - [RxJS Essentials](11-rxjs.md) — operators for transforming HTTP responses
 - [Signals](05-signals.md) — signals powering `httpResource()`

@@ -441,6 +441,16 @@ export class SkillsComponent {
 
 ---
 
+## Free Resources
+
+> **Official:** [Forms Guide](https://angular.dev/guide/forms) | [Reactive Forms](https://angular.dev/guide/forms/reactive-forms) — template-driven and reactive forms reference
+>
+> **YouTube:** [Angular Reactive Forms — Complete Guide](https://www.youtube.com/@DecodedFrontend) — Decoded Frontend covers FormGroup, FormControl, FormArray, validators, and custom validators
+>
+> **YouTube:** [Angular Forms with Signals](https://www.youtube.com/@JoshuaMorony) — Joshua Morony explores integrating signals with forms for reactive validation patterns
+
+---
+
 **Related:**
 - [Templates & Data Binding](03-templates-and-binding.md) — two-way binding with `ngModel`
 - [Services & DI](07-services-and-di.md) — form submission typically calls a service

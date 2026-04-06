@@ -446,6 +446,20 @@ A quick comparison (full guide: [Signals vs RxJS](signals-vs-rxjs.md)):
 
 ---
 
+## Free Resources
+
+> **Official:** [Signals Guide](https://angular.dev/guide/signals) — the canonical signals reference
+>
+> **Official:** [linkedSignal](https://angular.dev/guide/signals/linked-signal) | [resource](https://angular.dev/guide/signals/resource) — advanced signal APIs
+>
+> **YouTube:** [Angular Signals — Complete Guide](https://www.youtube.com/@JoshuaMorony) — Joshua Morony's most-watched signals tutorial, covering `signal()`, `computed()`, `effect()`, and reactive patterns
+>
+> **YouTube:** [Angular Signals: What, Why, and How](https://www.youtube.com/@debaborahkurata) — Deborah Kurata's methodical walkthrough with practical data-fetching examples
+>
+> **Deep Dive:** [Signals RFC Discussion](https://github.com/angular/angular/discussions/49685) — the original design discussion explaining *why* signals were designed this way
+
+---
+
 **Related:**
 - [Components](02-components.md) — signal-based inputs, outputs, and queries
 - [Signals vs RxJS](signals-vs-rxjs.md) — detailed comparison and decision guide

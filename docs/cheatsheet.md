@@ -229,4 +229,14 @@ ng update                      # update Angular
 
 ---
 
+## Free Resources
+
+> **Official:** [Angular Playground](https://angular.dev/playground) — test any syntax from this cheatsheet live in the browser
+>
+> **Official:** [Angular CLI Reference](https://angular.dev/tools/cli) — full CLI command reference
+>
+> **YouTube:** [Joshua Morony](https://www.youtube.com/@JoshuaMorony) — the best channel for modern Angular patterns, covers nearly everything in this cheatsheet
+
+---
+
 [&larr; Back to Home](../README.md)

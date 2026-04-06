@@ -366,6 +366,16 @@ graph TD
 
 ---
 
+## Free Resources
+
+> **YouTube:** [State Management with Angular Signals](https://www.youtube.com/@JoshuaMorony) — Joshua Morony covers lightweight state management with signals and services before reaching for a library
+>
+> **YouTube:** [NgRx Signal Store — Complete Guide](https://www.youtube.com/@RainerHahnekamp) — Rainer Hahnekamp (NgRx core contributor) gives the most authoritative walkthrough of `@ngrx/signals`
+>
+> **Official:** [NgRx Signal Store Docs](https://ngrx.io/guide/signals/signal-store) — the official NgRx docs with practical examples for signalStore, patchState, and rxMethod
+
+---
+
 **Related:**
 - [Signals](05-signals.md) — the reactive primitive powering all three levels
 - [Services & DI](07-services-and-di.md) — services as state containers

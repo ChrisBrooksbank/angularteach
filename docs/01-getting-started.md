@@ -235,4 +235,16 @@ Each generator creates the right files in the right place with the right boilerp
 
 ---
 
+## Free Resources
+
+> **Official Tutorial:** [Learn Angular](https://angular.dev/tutorials/learn-angular) — the official interactive tutorial, completely rewritten for modern standalone Angular
+>
+> **Official Tutorial:** [First App](https://angular.dev/tutorials/first-app) — build a housing app step-by-step with the Angular team
+>
+> **YouTube:** [Getting Started with Angular](https://www.youtube.com/@JoshuaMorony) — Joshua Morony's concise, modern, standalone-first walkthrough
+>
+> **Playground:** [Angular Playground](https://angular.dev/playground) — write and run Angular code in the browser with zero setup
+
+---
+
 [&larr; Prerequisites](00-prerequisites.md) | [Next: Components &rarr;](02-components.md)

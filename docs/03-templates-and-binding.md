@@ -366,6 +366,18 @@ export class ProductCardComponent {
 
 ---
 
+## Free Resources
+
+> **Official:** [Template Guide](https://angular.dev/guide/templates) — the full template syntax reference
+>
+> **Official:** [Binding Syntax](https://angular.dev/guide/templates/binding) — property, event, two-way, and attribute binding
+>
+> **YouTube:** [Angular Data Binding — All Types Explained](https://www.youtube.com/@DecodedFrontend) — Decoded Frontend covers every binding type with clear examples
+>
+> **Playground:** [Angular Playground](https://angular.dev/playground) — try template binding examples live in the browser
+
+---
+
 **Related:**
 - [Control Flow](04-control-flow.md) — conditional and repeated rendering
 - [Directives & Pipes](06-directives-and-pipes.md) — transform displayed data

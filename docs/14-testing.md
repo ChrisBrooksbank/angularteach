@@ -407,6 +407,18 @@ test.describe('App', () => {
 
 ---
 
+## Free Resources
+
+> **Official:** [Testing Guide](https://angular.dev/guide/testing) — the official testing reference
+>
+> **YouTube:** [Testing Angular Applications](https://www.youtube.com/@RainerHahnekamp) — Rainer Hahnekamp is the go-to for Angular testing, covering unit testing components, services, and integration patterns
+>
+> **YouTube:** [Angular Testing with Vitest](https://www.youtube.com/@RainerHahnekamp) — Rainer on migrating from Karma/Jest to Vitest for Angular
+>
+> **Tool:** [Playwright Component Testing](https://playwright.dev/docs/test-components) — Playwright's docs on component-level testing in real browsers
+
+---
+
 **Related:**
 - [Components](02-components.md) — what you're testing
 - [Services & DI](07-services-and-di.md) — mocking services in tests

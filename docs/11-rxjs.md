@@ -409,6 +409,18 @@ export class MyComponent implements OnDestroy {
 
 ---
 
+## Free Resources
+
+> **Official:** [RxJS Interop](https://angular.dev/guide/signals/rxjs-interop) — `toSignal()`, `toObservable()`, and bridging signals with RxJS
+>
+> **YouTube:** [RxJS in Angular — What You Need to Know](https://www.youtube.com/@JoshuaMorony) — Joshua Morony's pragmatic take on which RxJS operators actually matter in the signals era
+>
+> **YouTube:** [Top RxJS Operators for Angular Developers](https://www.youtube.com/@DecodedFrontend) — Decoded Frontend on `switchMap`, `combineLatest`, `takeUntilDestroyed`, and error handling
+>
+> **Interactive:** [RxJS Marbles](https://rxmarbles.com/) — interactive marble diagrams for every RxJS operator, invaluable for building intuition
+
+---
+
 **Related:**
 - [Signals vs RxJS](signals-vs-rxjs.md) — when to use which
 - [Signals](05-signals.md) — Angular's newer reactive primitive

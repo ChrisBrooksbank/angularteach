@@ -289,6 +289,16 @@ Cache-Control: no-cache, no-store, must-revalidate
 
 ---
 
+## Free Resources
+
+> **Official:** [Deployment Guide](https://angular.dev/tools/cli/deployment) — the Angular CLI deployment reference
+>
+> **YouTube:** [Deploy Angular to Firebase / Vercel / Netlify](https://www.youtube.com/@Fireship) — Fireship's quick deployment walkthroughs for common hosting platforms
+>
+> **Reference:** [Firebase Hosting Quickstart](https://firebase.google.com/docs/hosting/quickstart) — one of the easiest Angular deployment targets with great CLI integration (`ng deploy`)
+
+---
+
 **Related:**
 - [Performance](16-performance.md) — build optimization strategies
 - [SSR & Hydration](15-ssr-and-hydration.md) — deploying SSR applications

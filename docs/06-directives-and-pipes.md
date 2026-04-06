@@ -368,6 +368,16 @@ export class FilterPipe implements PipeTransform { ... }
 
 ---
 
+## Free Resources
+
+> **Official:** [Directives Guide](https://angular.dev/guide/directives) | [Pipes Guide](https://angular.dev/guide/pipes) — the full reference for both
+>
+> **YouTube:** [Angular Directives Explained](https://www.youtube.com/@DecodedFrontend) — Decoded Frontend covers attribute directives, structural directives, and the modern host directives feature
+>
+> **YouTube:** [Angular Pipes — Everything You Need to Know](https://www.youtube.com/@DecodedFrontend) — built-in pipes, custom pipes, and pure vs impure
+
+---
+
 **Related:**
 - [Templates & Data Binding](03-templates-and-binding.md) — binding syntax for directives
 - [Control Flow](04-control-flow.md) — replaced structural directives

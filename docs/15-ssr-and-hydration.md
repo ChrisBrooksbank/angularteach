@@ -296,6 +296,16 @@ HTTP requests made during SSR are automatically cached and transferred to the cl
 
 ---
 
+## Free Resources
+
+> **Official:** [SSR Guide](https://angular.dev/guide/ssr) | [Hydration](https://angular.dev/guide/hydration) — server-side rendering and hydration documentation
+>
+> **YouTube:** [Angular SSR — Complete Guide](https://www.youtube.com/@DecodedFrontend) — Decoded Frontend covers `@angular/ssr`, setup, and hydration
+>
+> **YouTube:** [Angular Hydration Explained](https://www.youtube.com/@JoshuaMorony) — Joshua Morony on full and incremental hydration, `@defer` on the server, and `withEventReplay()`
+
+---
+
 **Related:**
 - [Control Flow — @defer](04-control-flow.md#defer--lazy-loading-blocks) — lazy rendering that pairs with incremental hydration
 - [Performance](16-performance.md) — SSR as a performance strategy

@@ -483,6 +483,18 @@ export class TabsComponent {
 
 ---
 
+## Free Resources
+
+> **Official:** [Components Guide](https://angular.dev/guide/components) — the canonical reference for component APIs
+>
+> **Official:** [Signal Inputs](https://angular.dev/guide/signals/inputs) — documentation for the new `input()` function API
+>
+> **YouTube:** [Angular Signal Inputs Are Here](https://www.youtube.com/@JoshuaMorony) — Joshua Morony covers `input()` and `output()` replacing the decorator-based APIs
+>
+> **YouTube:** [Angular Standalone Components — The Complete Guide](https://www.youtube.com/@DecodedFrontend) — Decoded Frontend's thorough walkthrough of standalone components and migration
+
+---
+
 **Related:**
 - [Templates & Data Binding](03-templates-and-binding.md) — how templates display component data
 - [Signals](05-signals.md) — the reactive primitive powering `input()`, `output()`, and `model()`

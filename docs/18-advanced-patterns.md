@@ -423,6 +423,18 @@ export class MyComponent {
 
 ---
 
+## Free Resources
+
+> **Official:** [Animations Guide](https://angular.dev/guide/animations) | [i18n Guide](https://angular.dev/guide/i18n) — animations and internationalization reference
+>
+> **YouTube:** [Angular Animations — Complete Guide](https://www.youtube.com/@DecodedFrontend) — Decoded Frontend covers triggers, transitions, query/stagger patterns
+>
+> **YouTube:** [Dynamic Components in Angular](https://www.youtube.com/@DecodedFrontend) — modern standalone dynamic component patterns with `ViewContainerRef`
+>
+> **Reference:** [Angular CDK](https://material.angular.io/cdk/categories) — an underused treasure trove of production utilities: overlay, drag-drop, virtual scrolling, clipboard, layout
+
+---
+
 **Related:**
 - [Components](02-components.md) — the building blocks animated and dynamically created
 - [Routing](08-routing.md) — view transitions between routes

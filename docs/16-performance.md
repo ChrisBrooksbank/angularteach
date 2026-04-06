@@ -297,6 +297,18 @@ See [Directives & Pipes](06-directives-and-pipes.md#pure-vs-impure-pipes) for pi
 
 ---
 
+## Free Resources
+
+> **Official:** [Performance Best Practices](https://angular.dev/best-practices/performance) — the Angular team's own optimization guide
+>
+> **YouTube:** [How to Make Your Angular App Fast](https://www.youtube.com/@JoshuaMorony) — Joshua Morony on practical performance patterns including `@defer`, signals, and avoiding unnecessary re-renders
+>
+> **YouTube:** [Angular Performance — Best Practices](https://www.youtube.com/@DecodedFrontend) — Decoded Frontend covers OnPush, `track`, lazy loading, and bundle analysis
+>
+> **Tool:** [Angular DevTools](https://chrome.google.com/webstore/detail/angular-devtools/) — the official Chrome extension for profiling change detection and inspecting the component tree
+
+---
+
 **Related:**
 - [Change Detection](13-change-detection.md) — deep dive into OnPush and zoneless
 - [Control Flow — @defer](04-control-flow.md#defer--lazy-loading-blocks) — lazy template blocks

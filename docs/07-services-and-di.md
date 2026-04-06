@@ -387,6 +387,16 @@ export class AuthService {
 
 ---
 
+## Free Resources
+
+> **Official:** [Dependency Injection Guide](https://angular.dev/guide/di) — one of the best-written sections in the official docs
+>
+> **YouTube:** [Angular Dependency Injection — Understanding the Fundamentals](https://www.youtube.com/@DecodedFrontend) — Decoded Frontend's excellent DI explainer covering `providedIn`, tokens, multi-providers, and the injector hierarchy
+>
+> **YouTube:** [Angular inject() Function — Why You Should Use It](https://www.youtube.com/@JoshuaMorony) — Joshua Morony on the modern `inject()` function replacing constructor injection
+
+---
+
 **Related:**
 - [State Management](12-state-management.md) — scaling state with signals in services
 - [HTTP Client](10-http-client.md) — using services for API calls

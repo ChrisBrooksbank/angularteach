@@ -232,4 +232,16 @@ ng lint                 # Run linter
 
 ---
 
+## Free Resources
+
+> **YouTube:** [TypeScript Tutorial for Angular Developers](https://www.youtube.com/@DecodedFrontend) — Decoded Frontend covers exactly the TypeScript features you need for Angular (decorators, generics, utility types)
+>
+> **YouTube:** [TypeScript in 100 Seconds](https://www.youtube.com/@Fireship) — Fireship's fast orientation, then go deeper with the handbook below
+>
+> **Official:** [TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/) — the definitive free TypeScript reference
+>
+> **Interactive:** [TypeScript Exercises](https://typescript-exercises.github.io/) — browser-based exercises that build progressively, great before starting Angular
+
+---
+
 [&larr; Back to Home](../README.md) | [Next: Getting Started &rarr;](01-getting-started.md)

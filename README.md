@@ -133,6 +133,32 @@ graph TD
 
 ---
 
+## Recommended Free Resources
+
+This guide links out to the best free Angular content on the web. Every page includes curated links to official docs, YouTube videos, and interactive tools — we'd rather point you to an excellent existing resource than reinvent it.
+
+### Top YouTube Channels for Modern Angular
+
+| Channel | Why Follow |
+|---------|-----------|
+| [Joshua Morony](https://www.youtube.com/@JoshuaMorony) | The best channel for modern Angular. Short, focused videos on signals, standalone components, and reactive patterns. Consistently ahead of the curve. |
+| [Decoded Frontend](https://www.youtube.com/@DecodedFrontend) | Deep dives into Angular internals. Excellent on change detection, DI, and performance. Thorough, accurate, well-structured. |
+| [Deborah Kurata](https://www.youtube.com/@debaborahkurata) | Exceptional coverage of signals and reactive data patterns. Clear, methodical teaching style. Her signals playlist is a gold-standard learning path. |
+| [Rainer Hahnekamp](https://www.youtube.com/@RainerHahnekamp) | The authority on Angular testing and NgRx Signal Store. One of the few channels with deep, practical testing content. |
+| [Angular](https://www.youtube.com/@Angular) | Official channel. Keynotes, release overviews, and feature deep dives from the core team. |
+
+### Essential Bookmarks
+
+| Resource | What It Is |
+|----------|-----------|
+| [angular.dev](https://angular.dev) | Official docs — rewritten for modern Angular with interactive tutorials |
+| [Angular Playground](https://angular.dev/playground) | Write and run Angular code in the browser, zero setup |
+| [RxJS Marbles](https://rxmarbles.com/) | Interactive marble diagrams for every RxJS operator |
+| [NgRx Signal Store Docs](https://ngrx.io/guide/signals/signal-store) | Official docs for the modern Angular state management library |
+| [OWASP Angular Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Angular_Cheat_Sheet.html) | Security checklist maintained by OWASP |
+
+---
+
 ## How to Use This Guide
 
 **Complete beginner?** Start at [Prerequisites](docs/00-prerequisites.md) and follow the numbered sequence.

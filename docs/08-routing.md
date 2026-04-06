@@ -491,6 +491,16 @@ export const appConfig: ApplicationConfig = {
 
 ---
 
+## Free Resources
+
+> **Official:** [Routing Guide](https://angular.dev/guide/routing) | [Route Guards](https://angular.dev/guide/routing/guards) — complete routing reference with functional guards
+>
+> **YouTube:** [Angular Router — Complete Guide](https://www.youtube.com/@DecodedFrontend) — Decoded Frontend covers route config, nested routes, lazy loading with `loadComponent`, and functional guards
+>
+> **YouTube:** [Angular Route Input Binding — No More ActivatedRoute!](https://www.youtube.com/@JoshuaMorony) — Joshua Morony on `withComponentInputBinding()` for binding route params directly to component inputs
+
+---
+
 **Related:**
 - [Lazy Loading & Performance](16-performance.md) — optimizing route loading
 - [Services & DI](07-services-and-di.md) — route-level providers

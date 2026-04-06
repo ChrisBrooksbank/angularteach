@@ -360,6 +360,18 @@ If you're working with older Angular code, here's how the old directives map to 
 
 ---
 
+## Free Resources
+
+> **Official:** [Control Flow](https://angular.dev/guide/templates/control-flow) — the built-in control flow documentation
+>
+> **Official:** [Deferrable Views](https://angular.dev/guide/defer) — complete `@defer` reference with all triggers
+>
+> **YouTube:** [Angular's New Control Flow Is Here!](https://www.youtube.com/@JoshuaMorony) — Joshua Morony walks through `@if`, `@for`, `@switch` with practical comparisons to the old syntax
+>
+> **YouTube:** [Angular @defer — Lazy Load Components the Easy Way](https://www.youtube.com/@JoshuaMorony) — deep dive into `@defer` triggers and prefetching
+
+---
+
 **Related:**
 - [Templates & Data Binding](03-templates-and-binding.md) — the binding syntax used inside control flow blocks
 - [Signals](05-signals.md) — reactive values that drive `@if` and `@let` expressions

@@ -238,6 +238,16 @@ graph LR
 
 ---
 
+## Free Resources
+
+> **Official:** [Change Detection Guide](https://angular.dev/guide/change-detection) | [Zoneless Angular](https://angular.dev/guide/experimental/zoneless) — the official references
+>
+> **YouTube:** [Angular Change Detection — How It Really Works](https://www.youtube.com/@DecodedFrontend) — Decoded Frontend's deep, accurate explanation of Zone.js, change detection cycles, and OnPush
+>
+> **YouTube:** [Angular Zoneless Change Detection](https://www.youtube.com/@JoshuaMorony) — Joshua Morony on the experimental zoneless mode and how signals enable it
+
+---
+
 **Related:**
 - [Signals](05-signals.md) — the reactive primitive that powers fine-grained change detection
 - [Performance](16-performance.md) — OnPush, signals, and other optimizations

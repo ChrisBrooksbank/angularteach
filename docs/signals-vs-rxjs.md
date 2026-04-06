@@ -293,6 +293,16 @@ results$ = this.query$.pipe(
 
 ---
 
+## Free Resources
+
+> **YouTube:** [Angular Signals vs RxJS — When to Use What](https://www.youtube.com/@JoshuaMorony) — Joshua Morony's practical decision guide for choosing between signals and RxJS
+>
+> **YouTube:** [Angular Signals: What, Why, and How](https://www.youtube.com/@debaborahkurata) — Deborah Kurata shows real patterns for bridging signals and RxJS
+>
+> **Interactive:** [RxJS Marbles](https://rxmarbles.com/) — visualize RxJS operators with interactive marble diagrams
+
+---
+
 **Related:**
 - [Signals](05-signals.md) — full guide to Angular signals
 - [RxJS Essentials](11-rxjs.md) — operators and patterns

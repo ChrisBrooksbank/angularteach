@@ -144,4 +144,12 @@ Quick definitions of Angular terms, linked to their detailed guides.
 
 ---
 
+## Free Resources
+
+> **Official:** [Angular Glossary](https://angular.dev/guide/glossary) — the official Angular glossary on angular.dev
+>
+> **Official:** [API Reference](https://angular.dev/api) — searchable API documentation for every Angular package
+
+---
+
 [&larr; Back to Home](../README.md)
